@@ -11,3 +11,7 @@ Choose 'Ventura icon theme' [1] / 'Catalina icon theme' [2].
 After the skrikpt is finished, you open 'themes' for cinnamon or other programms to manage your designs. Then choose!
 
 If you want a bigger skript, example to install plank for a dock, let me know!
+
+
+! This skript uses other github repos !
+! You need an internet connection !
